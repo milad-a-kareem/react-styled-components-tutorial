@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.63ccd6c6.css",
-    "main.js": "/static/js/main.a4afd9d4.js",
-    "static/js/787.ac9b0cf8.chunk.js": "/static/js/787.ac9b0cf8.chunk.js",
-    "index.html": "/index.html",
-    "main.63ccd6c6.css.map": "/static/css/main.63ccd6c6.css.map",
-    "main.a4afd9d4.js.map": "/static/js/main.a4afd9d4.js.map",
-    "787.ac9b0cf8.chunk.js.map": "/static/js/787.ac9b0cf8.chunk.js.map"
+    "main.css": "/react-styled-components-tutorial/static/css/main.63ccd6c6.css",
+    "main.js": "/react-styled-components-tutorial/static/js/main.41fd090c.js",
+    "static/js/787.ac9b0cf8.chunk.js": "/react-styled-components-tutorial/static/js/787.ac9b0cf8.chunk.js",
+    "index.html": "/react-styled-components-tutorial/index.html",
+    "main.63ccd6c6.css.map": "/react-styled-components-tutorial/static/css/main.63ccd6c6.css.map",
+    "main.41fd090c.js.map": "/react-styled-components-tutorial/static/js/main.41fd090c.js.map",
+    "787.ac9b0cf8.chunk.js.map": "/react-styled-components-tutorial/static/js/787.ac9b0cf8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63ccd6c6.css",
-    "static/js/main.a4afd9d4.js"
+    "static/js/main.41fd090c.js"
   ]
 }
